@@ -10,9 +10,7 @@ const rentersData = [
         contactNumber: +918840014322,
         imageUrl: 'https://i.postimg.cc/7JVQHwkW/51664092-78df-4b69-bca9-5bb8455d3e2c.png',
         rentDetails: [
-            { date: '2023-01-01', roomRent: 5000, electricityBill: 1000, waterBill: 200 },
-            { date: '2023-02-01', roomRent: 5000, electricityBill: 1000, waterBill: 200 },
-            { date: '2023-03-01', roomRent: 5000, electricityBill: 1000, waterBill: 200 },
+            { date: '2023-11-01', roomRent: 10000, electricityBill: 0, waterBill: 0 },
             // Add more rent payment data as needed
         ],
     },
