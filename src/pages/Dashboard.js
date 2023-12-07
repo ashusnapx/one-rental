@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import rentersData from '/src/data/rentersData';
+import rentersData from '../data/rentersData.js';
 
 const Dashboard = () => {
     return (
