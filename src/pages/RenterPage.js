@@ -4,7 +4,7 @@ import React,{useEffect} from 'react';
 import { useParams } from 'react-router-dom';
 import RenterDetails from '../components/renter/RenterDetails';
 import RentTimeline from '../components/renter/RentTimeline';
-import rentersData from '../data/rentersData';
+import rentersData from '/src/data/rentersData';
 
 const RenterPage = () => {
     const { id } = useParams();
